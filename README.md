@@ -1,5 +1,4 @@
 # Supermarket-analysis 
-# Supermarket Analysis
 
 ## Overview
 This repository contains an in-depth analysis of supermarket sales data. The project includes data cleaning, refinement, exploratory analysis, and dashboard creation for actionable insights.
